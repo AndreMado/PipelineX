@@ -1,0 +1,3 @@
+##COmandos importantes de minikube##
+minikube profile list
+minikube profile pipelinex
